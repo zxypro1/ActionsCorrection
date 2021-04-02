@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- name：声明你要在哪个控件中使用这个自定义的属性-->
+    <declare-styleable name="CircleProgressBar">
+        <attr name="max" format="integer" />
+        <attr name="progress" format="integer" />
+        <attr name="startAngle" format="float" />
+        <attr name="reverse" format="boolean" />
+        <attr name="roundCap" format="boolean" />
+        <attr name="ringWidth" format="dimension" />
+        <attr name="ringColor" format="color" />
+        <attr name="ringBackgroungColor" format="color" />
+        <attr name="innerBackgroundColor" format="color" />
+        <attr name="descText" format="string" />
+        <attr name="descTextSize" format="dimension" />
+        <attr name="descTextColor" format="color" />
+        <attr name="percentTextSize" format="dimension" />
+        <attr name="percentTextColor" format="color" />
+    </declare-styleable>
+</resources>

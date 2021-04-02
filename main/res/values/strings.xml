@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">ActionsCorrection</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="me">我的</string>
+    <string name="shibie">识别</string>
+    <string name="xiaoxi">消息</string>
+    <string name="huodong">活动</string>
+    <string name="report">健身报告数据</string>
+    <string name="connection">设备连接数据</string>
+    <string name="body">体态报告</string>
+    <string name="rate">排名数据</string>
+    <string name="exercise">运动健身</string>
+    <string name="zhongkao">模拟中考</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="login">登录</string>
+    <string name="withoutaccount">没有账号？</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Register_failed">"注册失败"</string>
+    <string name="Register_Success">"注册成功"</string>
+</resources>
